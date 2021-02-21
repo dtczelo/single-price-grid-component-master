@@ -24,7 +24,7 @@ body {
 
 .container {
   width: 45%;
-  height: 60%;
+  height: auto;
   border-radius: 10px;
   display: -ms-grid;
   display: grid;
@@ -188,7 +188,6 @@ footer {
   }
   .container {
     width: 90%;
-    height: auto;
     display: -ms-grid;
     display: grid;
     -ms-grid-rows: (auto)[3];
